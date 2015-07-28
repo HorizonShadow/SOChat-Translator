@@ -66,7 +66,7 @@ class Watcher {
 		addedNodes.forEach(n => {
 			var messages = n.querySelectorAll(".message");
 			[...messages].forEach(m => {
-				var text = m.textContent;
+				var text = m.textContent.toLowerCase();
 				m.textContent = this.fixText(text);
 			});
 
