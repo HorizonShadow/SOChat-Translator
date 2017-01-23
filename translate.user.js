@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Translate lesser IQs
 // @namespace   joshleblanc94@gmail.com
-// @description Makes idiots understandable
+// @description Makes chat understandable
 // @include     http://chat.stackoverflow.com/rooms/*
 // @version     1
 // @grant       none
