@@ -36,7 +36,7 @@ class Watcher {
 			omg: "oh my god",
 			wtf: "what the fuck",
 			bbq: "barbeque",
-			ur: "your", //Fucking ambiguous piece of shit
+			ur: "your", 
 			btw: "by the way",
 			k: "okay",
 			cuz: "because",
